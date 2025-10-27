@@ -4,6 +4,7 @@
 To study the problem statement ,SRS document and draw the UML diagram of ATM and Banking system
 # SRS (Procedure):
 A ATM and Banking system UML Diagram represents the design of how different components of a library interact. It typically includes several types of UML diagrams.
+
 i) Usecase Diagram
 
 ii)Class Diagram
