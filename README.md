@@ -34,5 +34,7 @@ vi)Sequence Diagram
 <img width="1226" height="813" alt="image" src="https://github.com/user-attachments/assets/67ebf66e-e95f-4a51-a2be-e6150e0ef10e" />
 
 # RESULT:
-Thus the ATM and banking system project was executed and the output was verified.
+Thus, the UML diagrams for ATM & Banking System has been designed successfully.
+
+
 
