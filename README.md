@@ -20,8 +20,11 @@ vi)Sequence Diagram
 ![Screenshot 2025-05-14 170653](https://github.com/user-attachments/assets/e35ac857-8bed-415a-ba75-2ab95b422c2d)
 
 # CLASS DIAGRAM
+
 <img width="950" height="798" alt="image" src="https://github.com/user-attachments/assets/33b7bbe8-d024-42dd-878e-06ef9ee4d525" />
+
 # ACTIVITY DIAGRAM
+
 <img width="676" height="863" alt="image" src="https://github.com/user-attachments/assets/e1d65bb4-ab07-4d5a-8a1a-f905ec4fc20f" />
 
 # COMMUNICATION DIAGRAM
